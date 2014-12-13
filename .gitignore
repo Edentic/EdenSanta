@@ -1,0 +1,5 @@
+*.jar
+bin
+.settings
+twitter4j-4.0.2
+twitter4j.properties
